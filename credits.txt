@@ -1,0 +1,34 @@
+***** Art *****
+Player sprite: AceWay (@acewaydev) and Darkeyed (@Darkeyed19)
+Explosion sprites: Luis Zuno (@ansimuz)
+Glacial and grassy mountain backgrounds: Vicente Nitti (@vnitti)
+The Midnight Background: @TheWiseHedgehog (thewisehedgehog.itch.io)
+Skeleton: Jesse Munguia (@Jsf23Art)
+Slime: rvros (rvros.itch.io)
+Undead: AceWay (@acewaydev) and Darkeyed (@Darkeyed19)
+Platforms: CTatz (@CamTatz)
+Blood effects: NYKNCK (@nyk_nck)
+Fireball, IceShard, Lightning: NYKNCK (@nyk_nck)
+Blood/Fire FX: XYEzawr (xyezawr.itch.io)
+
+
+Gun icon: Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+Health icon: <a target="_blank" href="https://icons8.com/icons/set/heart-with-pulse">Heart with Pulse icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+Bullet icon: <a target="_blank" href="https://icons8.com/icons/set/bullet">Bullet icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+
+***** Sounds *****
+Blazer Trail: dl-sounds.com
+bfxr.net
+soundbible.org
+opengameart.org
+"Chiptune_Adventures_1.ogg" -> SubspaceAudio
+"Summer_Park.ogg" -> Scribe
+Kenney's Audio Packs
+fireball.wav - Julien Matthey (https://freesound.org/people/Julien%20Matthey/sounds/105016/)
+ice_shard_collision.wav - Euphrosyyn (https://freesound.org/people/Euphrosyyn/sounds/380493/)
+fire_ball_collision.wav - HighPixel (https://freesound.org/people/HighPixel/sounds/431174/)
+iceshard.wav - Anthousai (https://freesound.org/people/Anthousai/sounds/406079/)
+
+***** References *****
+KidsCanCode (YouTube)
